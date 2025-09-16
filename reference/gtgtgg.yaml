@@ -187,6 +187,20 @@ paths:
       operationId: put-gthh-fmhmh-ghyhyh-tkhiyhoyo
       x-stoplight:
         id: i02es23ti68jr
+      requestBody:
+        content:
+          application/gzip:
+            schema:
+              type: object
+              properties:
+                khjg:
+                  type: string
+                  x-stoplight:
+                    id: 9auo3r29bz4f7
+                jijiji:
+                  x-stoplight:
+                    id: 2az80euiiee0p
+                  enum: []
 components:
   schemas:
     User:
