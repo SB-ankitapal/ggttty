@@ -1,0 +1,25 @@
+{
+  "name": "ggttty",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "bbhbh": {
+      "id": "6gz-suq1IMW5aM5UgH36p",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      },
+      "name": "bbhbh"
+    }
+  },
+  "extendedDefault": false
+}
