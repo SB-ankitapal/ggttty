@@ -1,0 +1,17 @@
+title: hnhjm
+x-stoplight:
+  id: 7fpawfzss3ejn
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: 6zd965aeadzk2
+  hjjn:
+    type: string
+    x-stoplight:
+      id: l3hgdnvg08en4
+  fhrtt:
+    type: string
+    x-stoplight:
+      id: am648jrwq8b2v
